@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "dependencies": {
+        "stylobate-islands": "~0.28.0",
+        "stylus": "git://github.com/LearnBoost/stylus.git#feature-source-maps"
+    }
+}
